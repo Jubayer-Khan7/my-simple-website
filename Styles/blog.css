@@ -4,8 +4,14 @@ div{
     margin-bottom: 10px;
     
 }
-h1{
+h2{
     background-color: blueviolet;
     font-weight:bolder ;
     font-size: larger;
+}
+h1{
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+    background-color: aqua;
 }
