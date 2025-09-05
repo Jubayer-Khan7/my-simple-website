@@ -9,7 +9,13 @@ h2{
     font-weight:bolder ;
     font-size: larger;
 }
-h1,h3{
+h1{
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+    background-color: aqua;
+}
+h3{
     font-size: larger;
     font-style: italic;
     font-weight: bolder;
